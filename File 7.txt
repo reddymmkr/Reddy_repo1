@@ -1,3 +1,0 @@
-File 7
-Test fetch from branch 3
-Test diff
