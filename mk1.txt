@@ -1,2 +1,3 @@
 test reset
 second test
+staged but not committed
